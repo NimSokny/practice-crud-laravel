@@ -5,7 +5,7 @@
 @section('content')
     <div class="container">
         <a href="{{ route('products.create') }}" class="btn btn-info mb-3">Create</a>
-        <table class="table">
+        <table class="table text-center align-middle">
             <thead>
                 <tr>
                     <th>#</th>
